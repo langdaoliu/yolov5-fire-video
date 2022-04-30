@@ -1,0 +1,9 @@
+#train: E:/workshop/taobao/fire/fire-smoke_v5/train/images
+#val: E:/workshop/taobao/fire/fire-smoke_v5/valid/images
+train: E:/datasets/fire20000/v5/train/images
+val: E:/datasets/fire20000/v5/valid/images
+
+nc: 2
+#names: ['fire', 'smoke', 'tree', 'rubbish']
+#names: ['fire', 'smoke', 'tree', 'rubbish', 'straw']
+names: ['fire', 'smoke']
